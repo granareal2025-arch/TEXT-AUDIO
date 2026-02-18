@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VozPró: Estúdio Profissional de Áudio",
+  "description": "Uma plataforma avançada de Text-to-Speech (TTS) e Speech-to-Text (STT) com vozes humanas, suporte a múltiplos dialetos de Português, estilos jornalísticos e conversão de vídeo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
